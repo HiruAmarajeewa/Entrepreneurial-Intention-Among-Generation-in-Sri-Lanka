@@ -21,11 +21,6 @@ As the torchbearers of innovation, Generation Z's entrepreneurial spirit has the
 ## 🙌 Acknowledgments
 A big shoutout to everyone involved in making this research possible!
 
-## 📌 License
-This project is licensed under the [MIT License](LICENSE.md).
-
-Feel free to explore, contribute, and let's empower the next generation of entrepreneurs together! 💡
-
 ## 🚀 Installation
 
 Clone the repository to your local machine using the following command:
