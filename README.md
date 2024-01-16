@@ -18,11 +18,6 @@ Discover actionable steps to support and nurture Generation Z's entrepreneurial 
 ## 🌟 Why Explore Generation Z Entrepreneurship?
 As the torchbearers of innovation, Generation Z's entrepreneurial spirit has the power to reshape industries and drive sustainable growth. Join us on this journey of exploration and insight!
 
-## 📝 How to Contribute
-1. **Fork** this repository.
-2. Make your changes.
-3. Submit a **pull request**.
-
 ## 🙌 Acknowledgments
 A big shoutout to everyone involved in making this research possible!
 
