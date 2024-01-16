@@ -1,4 +1,4 @@
-#👨‍⚖️ Generation Z Entrepreneurial Intentions in Sri Lanka 
+# 👨‍⚖️ Generation Z Entrepreneurial Intentions in Sri Lanka 
 
 ## 🚀 Overview
 Welcome to our fascinating exploration of Generation Z's entrepreneurial intentions in Sri Lanka! This repository contains the complete research study, including statistical analyses, insights, and recommendations.
