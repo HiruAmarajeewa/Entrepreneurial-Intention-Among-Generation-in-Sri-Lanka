@@ -21,6 +21,9 @@ As the torchbearers of innovation, Generation Z's entrepreneurial spirit has the
 ## 🙌 Acknowledgments
 A big shoutout to everyone involved in making this research possible!
 
+## 🤝 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance or fix any issues in the system.
+
 ## 🚀 Installation
 
 Clone the repository to your local machine using the following command:
